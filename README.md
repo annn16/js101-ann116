@@ -1,2 +1,2 @@
 # js101-ann116
-My basic JS projects
+My basic JS projects - Jonh Smilga
